@@ -1,6 +1,6 @@
 
-
-year = 2000
+#example 2000 is leap yer
+#year = 2000
 
 # To get year (integer input) from the user
 year = int(input("Enter a year: "))
